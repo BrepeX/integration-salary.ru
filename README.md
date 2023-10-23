@@ -47,9 +47,13 @@
 
 ## Галерея
 
-![Изображение 1](ссылка_на_изображение1.jpg)
-![Изображение 2](ссылка_на_изображение2.jpg)
-...
+![Изображение 1](https://github.com/BrepeX/integration-salary.ru/blob/main/screen%201.png)
+![Изображение 2](https://github.com/BrepeX/integration-salary.ru/blob/main/screen%202.png)
+![Изображение 3](https://github.com/BrepeX/integration-salary.ru/blob/main/screen%203.png)
+![Изображение 4](https://github.com/BrepeX/integration-salary.ru/blob/main/screen%204.png)
+![Изображение 5](https://github.com/BrepeX/integration-salary.ru/blob/main/screen%205.png)
+![Изображение 6](https://github.com/BrepeX/integration-salary.ru/blob/main/screen%206.png)
+
 
 ## Моя роль в проекте 🛠️
 
